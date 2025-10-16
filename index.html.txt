@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Marilyn Pitts Portfolio</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <h1>Welcome to My Portfolio</h1>
+  <p>Hello, my name is Marilyn Pitts. I’ve been disabled since 2008 and unable to work, but I’ve never stopped learning. This website is part of my final class assignment, and it demonstrates that I can successfully create, upload, and publish a webpage using GitHub Pages.</p>
+  <p>The content here may be simple, but the process behind it represents my determination to grow and adapt. I’m proud to show that I completed this technical challenge and met the requirements of the course.</p>
+</body>
+</html>
